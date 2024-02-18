@@ -4,7 +4,7 @@ Authors: [Xavier Beltran Urbano](https://xavibeltranurbano.github.io) and [Frede
 ## Setting Up the Project
 1. Clone the project:
   ```bash
-  git https://github.com/xavibeltranurbano/DL-Ensemble-Brain-Tissue-Segmentation.git
+  git clone https://github.com/Frederik-Hartmann/DL-Ensemble-Brain-Tissue-Segmentation.git
   cd DL-Ensemble-Brain-Tissue-Segmentation
   ```
 2. Using a virtual environment is strongly recommended.
